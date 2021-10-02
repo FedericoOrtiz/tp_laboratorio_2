@@ -54,7 +54,7 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles\n\n", taller.vehiculos.Count, taller.espacioDisponible);
+            sb.AppendFormat("Tenemos {0} lugares ocupados de un total de {1} disponibles\n", taller.vehiculos.Count, taller.espacioDisponible);
             foreach (Vehiculo v in taller.vehiculos)
             {
                 if(v.GetType().Name.ToUpper() == tipo.ToString().ToUpper() || tipo == ETipo.Todos)
