@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Feder\\Desktop\\UTN\\2021\\2°\\Prog-Lab II\\TPS (USAR .NET CORE 5.0)\\tp_laboratorio_2\\TP1\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\Feder\\Desktop\\UTN\\2021\\2°\\Prog-Lab II\\TPS (USAR .NET CORE 5.0)\\tp_laboratorio_2\\TP N°1 Calculadora\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\Feder\\Desktop\\UTN\\2021\\2°\\Prog-Lab II\\TPS (USAR .NET CORE 5.0)\\tp_laboratorio_2\\TP1\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\Feder\\Desktop\\UTN\\2021\\2°\\Prog-Lab II\\TPS (USAR .NET CORE 5.0)\\tp_laboratorio_2\\TP N°1 Calculadora\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\Feder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Feder\\Desktop\\UTN\\2021\\2°\\Prog-Lab II\\TPS (USAR .NET CORE 5.0)\\tp_laboratorio_2\\TP1\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\Feder\\Desktop\\UTN\\2021\\2°\\Prog-Lab II\\TPS (USAR .NET CORE 5.0)\\tp_laboratorio_2\\TP N°1 Calculadora\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Feder\\AppData\\Roaming\\NuGet\\NuGet.Config",

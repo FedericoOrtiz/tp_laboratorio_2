@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Feder\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Feder\\.nuget\\packages"
+    ]
+  }
+}
