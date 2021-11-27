@@ -1,0 +1,105 @@
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.exe
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.deps.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.runtimeconfig.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.runtimeconfig.dev.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\ref\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmConcesionaria.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmVehiculo.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.AssemblyInfo.cs
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.CopyComplete
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\ref\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionaria\TP3\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.genruntimeconfig.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.exe
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.deps.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.runtimeconfig.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.runtimeconfig.dev.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\ref\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmConcesionario.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmVehiculo.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.AssemblyInfo.cs
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.CopyComplete
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\ref\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.genruntimeconfig.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°3 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.Properties.Resources.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.exe
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.deps.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.runtimeconfig.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.runtimeconfig.dev.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\ref\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmConcesionario.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmVehiculo.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.Properties.Resources.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.AssemblyInfo.cs
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.CopyComplete
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\ref\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.genruntimeconfig.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\TP N°4 Concesionario\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmVentas.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.exe
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.deps.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.runtimeconfig.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.runtimeconfig.dev.json
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\ref\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\Test.WindowsForms.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\Entidades.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\bin\Debug\net5.0-windows\Entidades.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.AssemblyReference.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmConcesionario.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmVehiculo.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.FrmVentas.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.Properties.Resources.resources
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.GenerateResource.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.AssemblyInfoInputs.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.AssemblyInfo.cs
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.csproj.CopyComplete
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\ref\Test.WindowsForms.dll
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.pdb
+C:\Users\Feder\Desktop\UTN\2021\2°\Prog-Lab II\TPS (USAR .NET CORE 5.0)\tp_laboratorio_2\RecuperatoriosTP\TP4\Test.WindowsForms\obj\Debug\net5.0-windows\Test.WindowsForms.genruntimeconfig.cache
